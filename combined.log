@@ -1,0 +1,510 @@
+{"level":"error","message":"Path /api/train/12403 not found","service":"user-service"}
+{"level":"error","message":"Path /api/train/12403 not found","service":"user-service"}
+{"level":"error","message":"Path /api/train/12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain/?trainNo=12403 not found","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 20403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 20403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 20404, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: connect ETIMEDOUT 15.188.236.44:443","service":"user-service"}
+{"level":"error","message":"Path /favicon.ico not found","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: connect ETIMEDOUT 15.188.236.44:443","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 34567, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 90879, status: 200","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12403, error: ","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 34567, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 567890, status: 200","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 34567, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 34567, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 34567, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 34567, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 56789, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 56789, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: undefined, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: undefined, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: undefined, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: undefined, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: undefined, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: undefined, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: undefined, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12345, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: undefined, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: undefined, error: getaddrinfo ENOTFOUND indian-railway-api.cyclic.app","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: undefined, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 45673, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 45673, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 45673, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 45673, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 45673, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 45673, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 45673, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 09873456, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 09873456, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 456789, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 456789, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12345, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12345, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12345, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: socket hang up","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo/?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo/?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo/?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInfo/?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getInfo?trainNo=12403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrain?trainNo=12403 not found","service":"user-service"}
+{"level":"info","message":"[getTrainInfo] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"error","message":"Path /getTrainInformation%20%20%20%20%20%20%20%20%20%20/?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"Path /getTrainInformation%20%20%20%20%20%20%20%20%20%20/?trainNo=20403 not found","service":"user-service"}
+{"level":"error","message":"[getTrainInfo] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"[getTrainInfo] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"error","message":"[getTrainInformation] trainNo: 20403, error: Request failed with status code 404","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"error","message":"Path /getLiveTrainInfo/trainNo=12403&Data=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /getLiveTrainInfo/trainNo=12403&Date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /LiveTrainInfo/trainNo=12403&Date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /liveTrainInfo/trainNo=12403&Date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /liveTrainInfo/?trainNo=12403&Date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /liveTrainInfo/?trainNo=12403&date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /liveTrainInfo/?trainNo=20403&date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /liveTrainInfo/?trainNo=20403&date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /getLiveTrainInfo/?trainNo=20403&date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /getLiveTrainInfo/?trainNo=20403&date=29-Mar-2024 not found","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"error","message":"Path /getLiveTrainInfo/?trainNo=20403&date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /getLiveTrainInfo/?trainNo=20403&date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /getLiveTrainInfo/?trainNo=20403&date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"Path /getLiveTrainInfo/?trainNo=20403&date=29-Mar-2024 not found","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 20403, status: 200","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"Path /favicon.ico not found","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: trainNo=20403,date:date=29-Mar-2024, error: Request failed with status code 400","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:undefined, error: Request failed with status code 500","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:undefined, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403/date=20-03-2024,date:undefined, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403/date=30-03-2024,date:undefined, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403/date=30-Mar-2024,date:undefined, error: Request failed with status code 400","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:30-03-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:30-Mar-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:30-Mar-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12403,date:30-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12403,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getTrainInformation] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:29-Mar-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12403,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12403,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:30-03-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:30-03-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20404,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20404,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:30-03-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:30-03-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12403,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12403,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:30-03-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:30-03-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20404,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20404,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12403,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12403,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:30-03-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:30-03-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12345,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12345,date:30-03-2024, status: 200","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 12403,date:10-04-2023, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 12403,date:10-04-2023, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:10-04-2023, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:10-04-2023, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20404,date:10-04-2023, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20404,date:10-04-2023, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 12404,date:10-04-2023, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 12404,date:10-04-2023, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 12403,date:10-04-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 12403,date:10-04-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:10-04-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:10-04-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:10-04-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 20403,date:10-04-2024, status: 200","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 12403,date:10-04-2024, error: connect ETIMEDOUT 3.109.210.229:5000","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"info","message":"[getRoute] trainNo: 12403, status: 200","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:26-may-2024, error: connect ETIMEDOUT 3.109.210.229:5000","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 20403,date:26-may-2024, error: connect ETIMEDOUT 3.109.210.229:5000","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20404, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20404, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20404, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20404, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20404, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20404, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20404, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20404, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"Path /getLiveTrainInfo/trainNo=12403&Date=29-Mar-2024 not found","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20404, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 20404, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getRoute] trainNo: 12403, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 12403,date:26-may-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 12403,date:26-may-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 12802,date:21-may-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"error","message":"[getLiveTrainInfo] trainNo: 12802,date:21-may-2024, error: Request failed with status code 500","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12802,date:28-may-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12802,date:28-may-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12802,date:28-may-2024, status: 200","service":"user-service"}
+{"level":"info","message":"[getLiveTrainInfo] trainNo: 12802,date:28-may-2024, status: 200","service":"user-service"}
